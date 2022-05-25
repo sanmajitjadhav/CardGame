@@ -1,0 +1,11 @@
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\CardGame.exe
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\CardGame.dll
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\CardGame.deps.json
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\CardGame.runtimeconfig.json
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\CardGame.pdb
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SampleProject\CardGame\Service\CardGame\CardGame\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
