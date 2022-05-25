@@ -1,0 +1,23 @@
+<h5 style="text-align: center;">Card-list</h5>
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar pt-2 ">
+
+<table class = "mdbTable mdbTableScroll" *ngIf="cards" >
+  <tbody>
+    <tr *ngFor="let ca of cards">
+      <td  *ngIf="ca">
+        <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h2 class="card-title">{{ca.name}}</h2>
+          <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+          <button class="btn btn-primary" (click)="onSelect(ca.name)">Select</button>
+        </div>
+      </div>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+

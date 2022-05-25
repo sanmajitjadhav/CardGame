@@ -1,0 +1,52 @@
+
+
+<div class="bg-secondary">
+<h5 style="text-align: center; color: white;">Board</h5>
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar pt-2 text-center table-center p-2">
+
+<table class="mdbTable mdbTableScroll">
+  <tbody>
+    <tr *ngFor="let ca of cards">
+      <td *ngIf="ca.card1">
+        <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h2 class="card-title">{{ca.card1}}</h2>
+        </div>
+      </div>
+    </td>
+    <td *ngIf="ca.card2">
+      <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h2 class="card-title">{{ca.card2}}</h2>
+            </div>
+          </div>
+        </td>
+        <td *ngIf="ca.card3">
+          <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h2 class="card-title">{{ca.card3}}</h2>
+          </div>
+        </div>
+      </td>
+      <td *ngIf="ca.card4">
+        <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h2 class="card-title">{{ca.card4}}</h2>
+        </div>
+      </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<div class="text-center p-2">
+  <button class="btn btn-primary " (click)="performSorting()">Perform Sorting</button>
+  <span class="pr-5"></span>
+  <button class="btn btn-primary" (click)="reset()">Reset</button>
+  </div>
+
+</div>
+
